@@ -1,0 +1,27 @@
+{
+  "name": "friendstrainning",
+  "version": "1.0.0",
+  "description": "treinamento nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauroslucios/friendsTrainning.git"
+  },
+  "keywords": [
+    "nodejs",
+    "aws",
+    "express",
+    "docker",
+    "mysql",
+    "mongodb"
+  ],
+  "author": "mauroslucios@gmail.com, rodrigo.engenheirodesoftware@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mauroslucios/friendsTrainning/issues"
+  },
+  "homepage": "https://github.com/mauroslucios/friendsTrainning#readme"
+}
