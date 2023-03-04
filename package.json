@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/mauroslucios/friendsTrainning/issues"
   },
-  "homepage": "https://github.com/mauroslucios/friendsTrainning#readme"
+  "homepage": "https://github.com/mauroslucios/friendsTrainning#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
 }
